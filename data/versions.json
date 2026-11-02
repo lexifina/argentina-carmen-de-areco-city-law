@@ -1,0 +1,19 @@
+{
+ "country": "AR-B-CARMEN-DE-ARECO",
+ "acts": [
+  {
+   "slug": "ordenanza-3282-2025",
+   "short": "Ordenanza 3282/2025",
+   "title": "Ordenanza 3282/2025: Promulgase la Ordenanza Nº 3282 /2025, sancionada por el Honorable Concejo Deliberante de Carmen de Areco con fecha 06/01/2025",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/12523/contents/2198622",
+   "versions": [
+    {
+     "from": "2025-04-18",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/12523/contents/2198622",
+     "sha256": "630ac4ac4808bb904a698f3382b22121a33677d95d247c675ba3a84462853488"
+    }
+   ]
+  }
+ ]
+}

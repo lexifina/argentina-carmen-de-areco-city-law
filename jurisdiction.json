@@ -1,0 +1,11 @@
+{
+  "path": "ar-b-carmen-de-areco",
+  "code": "AR-B-CARMEN-DE-ARECO",
+  "name": "Carmen de Areco",
+  "level": "municipality",
+  "parent": "ar-b",
+  "repo": "https://github.com/lexifina/argentina-carmen-de-areco-city-law",
+  "build": "built: municipal ordinances (1 ordinances, 1 versions) from https://sibom.slyt.gba.gob.ar/cities/23",
+  "language": "es",
+  "sources": 1
+}
